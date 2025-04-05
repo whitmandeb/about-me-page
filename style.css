@@ -1,0 +1,59 @@
+body{
+    background-color: azure;
+}
+
+*{
+    color: black;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px 10px 10px;
+    margin-bottom: 2rem;
+}
+
+h1 {
+  font-family: cursive;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-bottom: 0rem;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 4px;
+  margin-bottom: 0rem;
+}
+
+p{
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    color: orchid;
+    text-decoration: underline;
+}
+
+li{
+    padding: 0px 0px 0px;
+    font-size: 1.1rem;
+    margin-bottom: 0rem; 
+    margin-left: 1rem;
+}
+
+header{
+    margin-bottom: 0rem;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+img{
+    border-style: solid;
+    max-width: 100%;
+    border-color: orchid;
+}
